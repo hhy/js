@@ -1,0 +1,27 @@
+{
+  "name": "wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhy/js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhy/js/issues"
+  },
+  "homepage": "https://github.com/hhy/js#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
